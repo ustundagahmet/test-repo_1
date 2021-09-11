@@ -1,1 +1,3 @@
 Started new weok on file 3
+
+Started component 1
